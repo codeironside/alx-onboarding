@@ -1,0 +1,11 @@
+
+
+
+			
+				start
+				n = numberInput
+				for i in n,
+					square = square of n
+					sum = sum of square
+				stop
+					
