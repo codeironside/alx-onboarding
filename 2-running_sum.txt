@@ -1,0 +1,13 @@
+
+
+
+start
+
+n = input
+x=0
+while n is postive
+sum = x+n
+n =input
+else break
+
+stop		
